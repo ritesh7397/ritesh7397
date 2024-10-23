@@ -1,4 +1,4 @@
-![logo](https://github.com/ritesh7397/ritesh7397/blob/main/coding.jpg)
+![logo](https://github.com/ritesh7397/ritesh7397/blob/main/Mern%20stack.jpg)
 <h1 align="center">Hi 👋, I'm Ritesh Nagrikar</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
