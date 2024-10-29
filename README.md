@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **riteshnagrikar77@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ImzuBY6ehnxWAAwmaeMsM9xiYnqSu-lt/view?usp=drivesdk](https://drive.google.com/file/d/1ImzuBY6ehnxWAAwmaeMsM9xiYnqSu-lt/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ImzuBY6ehnxWAAwmaeMsM9xiYnqSu-lt/view?usp=sharing](https://drive.google.com/file/d/1ImzuBY6ehnxWAAwmaeMsM9xiYnqSu-lt/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
