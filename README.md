@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/riteshnagrikar2" target="blank"><img src="https://img.shields.io/twitter/follow/riteshnagrikar2?logo=twitter&style=for-the-badge" alt="riteshnagrikar2" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Mern Stack**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-website-sel1.onrender.com](https://portfolio-website-sel1.onrender.com)
 
